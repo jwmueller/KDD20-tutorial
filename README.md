@@ -1,1 +1,1 @@
-# Tutorial on Automated Machine Learning (KDD 2020)
+# KDD20 Tutorial: Practical Automated Machine Learning with Tabular, Text, and Image Data
