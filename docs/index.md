@@ -11,6 +11,21 @@ Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autoglu
 
 <br/><br/>
 
-**Date/Time:**  8/24, 1-4pm (PST)
+**Time:**  August 24, 1:00pm-4:00pm (PST)
 
+## Topics covered include:
+
+- Foundations of AutoML with tabular data
+
+- Practical automated deep learning
+
+- Deep learning for tabular data
+
+- Deep learning for text data
+
+- AutoML with text fields in data tables
+
+- Deep learning for image data
+
+- Multi-modal AutoML with tabular+text+image data
 
