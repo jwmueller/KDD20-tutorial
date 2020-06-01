@@ -4,6 +4,6 @@ Automated machine learning (AutoML) offers the promise of translating raw data i
 
 Tutors: [Jonas Mueller](http://people.csail.mit.edu/jonasmueller/), [Xingjian Shi](https://sxjscience.github.io/), [Alex Smola](https://alex.smola.org/)
 
-Date/Time: ? 2-5pm (Pacific Time)
+Date/Time: 8/24/2020 1-4pm (PST)
 
 
