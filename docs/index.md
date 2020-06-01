@@ -6,7 +6,7 @@ In this hands-on tutorial, we demonstrate fundamental techniques that enable pow
 Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autogluon/), a recent AutoML toolkit for automated deep learning that makes it easy to translate your data into highly accurate models: [autogluon.mxnet.io](https://autogluon.mxnet.io)
 
 
-**Tutors:** [Jonas Mueller](http://people.csail.mit.edu/jonasmueller/), [Xingjian Shi](https://sxjscience.github.io/), [Alex Smola](https://alex.smola.org/)
+**Tutors:** [Jonas Mueller](http://people.csail.mit.edu/jonasmueller/), [Xingjian Shi](https://sxjscience.github.io/), [Alex Smola](https://alex.smola.org/)  (Amazon Web Services)
 
 
 **Time:**  August 24, 1:00pm-4:00pm (PST)
