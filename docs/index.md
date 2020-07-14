@@ -25,5 +25,3 @@ Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autoglu
 
 - Deep learning for image data
 
-- Multi-modal AutoML with tabular+text+image data
-
