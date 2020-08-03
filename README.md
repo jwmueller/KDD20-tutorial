@@ -4,7 +4,7 @@ Automated machine learning (AutoML) offers the promise of translating raw data i
 
 In this hands-on tutorial, we demonstrate fundamental techniques that enable powerful AutoML. We consider standard supervised learning tasks on various types of data including tables, text, and images. Rather than technical descriptions of individual ML models, we emphasize how to best use models within an overall ML pipeline that takes in raw training data and outputs predictions for test data. A major focus of our tutorial is on automating deep learning, a class of powerful techniques that are cumbersome to manage manually. Each topic covered in the tutorial is accompanied by a hands-on Jupyter notebook that implements best practices. 
 
-Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autogluon/), a recent AutoML toolkit for automated deep learning that makes it easy to translate your data into highly accurate models: [autogluon.mxnet.io](https://autogluon.mxnet.io)
+Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autogluon/), a recent AutoML toolkit that makes it easy to translate your data into highly accurate models: [autogluon.mxnet.io](https://autogluon.mxnet.io)
 
 ## Information
 
