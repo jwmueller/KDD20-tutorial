@@ -19,6 +19,9 @@ Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autoglu
 ## Setup Instructions 
 
 Before beginning the hands-on tutorials, please [install AutoGluon](https://autogluon.mxnet.io/install.html). 
+
+One tutorial also requires you to install [Pytorch](https://pytorch.org/).
+
 A Linux machine with GPU is recommended, although you should be able to easily run the tabular data tutorials on a Mac laptop as well. 
 For the week of the KDD conference, we will provide access to cloud GPUs to run the hands-on tutorials (stay tuned).
 
