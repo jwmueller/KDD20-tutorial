@@ -6,6 +6,7 @@ In this hands-on tutorial, we demonstrate fundamental techniques that enable pow
 
 Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autogluon/), a recent AutoML toolkit for automated deep learning that makes it easy to translate your data into highly accurate models: [autogluon.mxnet.io](https://autogluon.mxnet.io)
 
+## Information
 
 **Tutors:** [Jonas Mueller](http://people.csail.mit.edu/jonasmueller/), [Xingjian Shi](https://sxjscience.github.io/), [Alex Smola](https://alex.smola.org/)  (Amazon Web Services)
 
@@ -21,3 +22,12 @@ Before beginning the hands-on tutorials, please [install AutoGluon](https://auto
 A Linux machine with GPU is recommended, although you should be able to easily run the tabular data tutorials on a Mac laptop as well. 
 For the week of the KDD conference, we will provide access to cloud GPUs to run the hands-on tutorials (stay tuned).
 
+## Hands-on Tutorials
+
+[1. AutoML with Tabular data - Using AutoGluon](https://github.com/jwmueller/KDD20-tutorial/blob/master/1.TabularData-UsingAutogluon.ipynb)
+[2. AutoML with Tabular data - Data Processing](https://github.com/jwmueller/KDD20-tutorial/blob/master/2.TabularData-DataProcessing.ipynb)
+[3. AutoML with Tabular data - Training Models & Ensembling](https://github.com/jwmueller/KDD20-tutorial/blob/master/3.TabularData-ModelsEnsembles.ipynb)
+[4. AutoML with Tabular data - Inference](https://github.com/jwmueller/KDD20-tutorial/blob/master/4.TabularData-Inference.ipynb)
+[5. AutoML with Image data - Using AutoGluon](https://github.com/jwmueller/KDD20-tutorial/blob/master/5.ImageData-UsingAutoGluon.ipynb)
+[6. AutoML with Image data - Hyperparameter Optimization](https://github.com/jwmueller/KDD20-tutorial/blob/master/6.ImageData-HyperparameterOptimization.ipynb)
+[7. Tuning your own models](https://github.com/jwmueller/KDD20-tutorial/blob/master/7.CustomModelHPO.ipynb)
