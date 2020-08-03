@@ -25,9 +25,15 @@ For the week of the KDD conference, we will provide access to cloud GPUs to run 
 ## Hands-on Tutorials
 
 [1. AutoML with Tabular data - Using AutoGluon](https://github.com/jwmueller/KDD20-tutorial/blob/master/1.TabularData-UsingAutogluon.ipynb)
+
 [2. AutoML with Tabular data - Data Processing](https://github.com/jwmueller/KDD20-tutorial/blob/master/2.TabularData-DataProcessing.ipynb)
+
 [3. AutoML with Tabular data - Training Models & Ensembling](https://github.com/jwmueller/KDD20-tutorial/blob/master/3.TabularData-ModelsEnsembles.ipynb)
+
 [4. AutoML with Tabular data - Inference](https://github.com/jwmueller/KDD20-tutorial/blob/master/4.TabularData-Inference.ipynb)
+
 [5. AutoML with Image data - Using AutoGluon](https://github.com/jwmueller/KDD20-tutorial/blob/master/5.ImageData-UsingAutoGluon.ipynb)
+
 [6. AutoML with Image data - Hyperparameter Optimization](https://github.com/jwmueller/KDD20-tutorial/blob/master/6.ImageData-HyperparameterOptimization.ipynb)
+
 [7. Tuning your own models](https://github.com/jwmueller/KDD20-tutorial/blob/master/7.CustomModelHPO.ipynb)
