@@ -46,4 +46,4 @@ For the week of the KDD conference, we will provide access to cloud GPUs to run 
 
 [9. AutoML with Text data - Customize Search Space and HPO](https://github.com/jwmueller/KDD20-tutorial/blob/master/9.TextData-CustomizationHPO.ipynb)
 
-[10. AutoML with Text data - Mixed Data Types](https://github.com/jwmueller/KDD20-tutorial/blob/master/10.MixedDataType.ipynb)
+[10. AutoML with Text data - Mixed Data Types](https://github.com/jwmueller/KDD20-tutorial/blob/master/10.TextData-MixedDataType.ipynb)
