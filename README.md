@@ -20,6 +20,7 @@ Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autoglu
 
 Before beginning the hands-on tutorials, please [install AutoGluon](https://autogluon.mxnet.io/install.html). 
 
+Most tutorials require you to install MXNet and you can install MXNet by following the guide in [install MXNet](https://sxjscience.github.io/KDD2020/).
 One tutorial also requires you to install [Pytorch](https://pytorch.org/).
 
 A Linux machine with GPU is recommended, although you should be able to easily run the tabular data tutorials on a Mac laptop as well. 
@@ -40,3 +41,9 @@ For the week of the KDD conference, we will provide access to cloud GPUs to run 
 [6. AutoML with Image data - Hyperparameter Optimization](https://github.com/jwmueller/KDD20-tutorial/blob/master/6.ImageData-HyperparameterOptimization.ipynb)
 
 [7. Tuning your own models](https://github.com/jwmueller/KDD20-tutorial/blob/master/7.CustomModelHPO.ipynb)
+
+[8. AutoML with Text data - Using AutoGluon](https://github.com/jwmueller/KDD20-tutorial/blob/master/8.TextData-UsingAutoGluon.ipynb)
+
+[9. AutoML with Text data - Customize Search Space and HPO](https://github.com/jwmueller/KDD20-tutorial/blob/master/9.TextData-CustomizationHPO.ipynb)
+
+[10. AutoML with Text data - Mixed Data Types](https://github.com/jwmueller/KDD20-tutorial/blob/master/10.TextData-MixedDataType.ipynb)
