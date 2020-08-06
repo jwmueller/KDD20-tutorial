@@ -40,7 +40,7 @@ For the week of the KDD conference, we will provide access to cloud GPUs to run 
 
 [6. AutoML with Image data - Hyperparameter Optimization](https://github.com/jwmueller/KDD20-tutorial/blob/master/6.ImageData-HyperparameterOptimization.ipynb)
 
-[7. Tuning your own models](https://github.com/jwmueller/KDD20-tutorial/blob/master/7.CustomModelHPO.ipynb)
+[7. Tuning your own models](https://github.com/jwmueller/KDD20-tutorial/blob/master/7.CustomModelHPO.ipynb)  (install [Pytorch](https://pytorch.org/) to run 2nd half of this tutorial) 
 
 [8. AutoML with Text data - Using AutoGluon](https://github.com/jwmueller/KDD20-tutorial/blob/master/8.TextData-UsingAutoGluon.ipynb)
 
