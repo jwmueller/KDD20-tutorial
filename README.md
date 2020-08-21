@@ -12,7 +12,7 @@ Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autoglu
 
 **Contact:** [Jonas Mueller](mailto:jonasmue@amazon.com)
 
-**Live Q&A:** August 24, 2020: 1-4pm (PST) [subject to change]
+**Live Q&A:** August 24, 2020: 1-4pm (PST)
 
 **Note:** Links to video presentations will be posted shortly.
 
