@@ -10,9 +10,9 @@ conda activate $env_name_short
 # Install mxnet, autogluon, and torch
 pip install -U pip
 pip uninstall -y mxnet-cu101
-pip install -U matplotlib
 pip install -U --pre "mxnet_cu101>=1.7.0b20200713, <2.0.0" -f https://sxjscience.github.io/KDD2020/
 pip install -U git+https://github.com/awslabs/autogluon
+pip install -U torch torchvision
 
 # Get notebooks from git
 cd ~/SageMaker
