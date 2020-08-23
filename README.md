@@ -29,7 +29,7 @@ A Linux machine with GPU is recommended, although you should be able to easily r
 
 For the week of the KDD conference, we will provide access to cloud GPUs to run the hands-on tutorials. 
 To access one of these machines (which will be available to you for 6 hours), please send an email to: `kdd20-autogluon@request-nb.mxnet.io`
-and you will receive an automated reply with instructions on how to get started.
+and you will receive an automated reply with instructions on how to get started. Once you have access to one of these instances, all prerequisite packages will already be installed and all hands-on notebooks are already available to run on the instance.
 
 ## Hands-on Tutorials
 
