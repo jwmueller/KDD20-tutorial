@@ -18,7 +18,15 @@ Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autoglu
 
 ## Setup Instructions 
 
-Before beginning the hands-on tutorials, please [install AutoGluon](https://autogluon.mxnet.io/install.html). In the installation instructions, please select the **SOURCE** option under **VERSION** which will provide you with a command to install the most up-to-date AutoGluon code (needed for Tutorials #8-10). You can alternatively use the following installation command (which will install a recent pre-release version):
+### Provided GPU machine
+
+For the week of the KDD conference, we will provide access to cloud GPUs to run the hands-on tutorials. 
+To access one of these machines (which will be available to you for 6 hours), please send an email to: `kdd20-autogluon@request-nb.mxnet.io`
+and you will receive an automated reply with instructions on how to get started. Once you have access to one of these instances, all prerequisite packages will already be installed and all hands-on notebooks are already available to run on the instance.
+
+### Your own machine
+
+Before running the hands-on tutorials on your own machine, please [install AutoGluon](https://autogluon.mxnet.io/install.html). In the installation instructions, please select the **SOURCE** option under **VERSION** which will provide you with a command to install the most up-to-date AutoGluon code (needed for Tutorials #8-10). You can alternatively use the following installation command (which will install a recent pre-release version):
 
 `python3 -m pip install autogluon==0.0.13b20200822`
 
@@ -27,9 +35,6 @@ Tutorial #7 also requires you to first install [Pytorch](https://pytorch.org/).
 
 A Linux machine with GPU is recommended, although you should be able to easily run the tabular data tutorials (#1-4) on a Mac laptop as well. All tutorials should be run in either Python 3.6 or 3.7. 
 
-For the week of the KDD conference, we will provide access to cloud GPUs to run the hands-on tutorials. 
-To access one of these machines (which will be available to you for 6 hours), please send an email to: `kdd20-autogluon@request-nb.mxnet.io`
-and you will receive an automated reply with instructions on how to get started. Once you have access to one of these instances, all prerequisite packages will already be installed and all hands-on notebooks are already available to run on the instance.
 
 ## Hands-on Tutorials
 
