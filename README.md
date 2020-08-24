@@ -32,7 +32,7 @@ Tutorial #7 also requires you to install [Pytorch](https://pytorch.org/) and [to
 
 A Linux machine with GPU is recommended, although you should be able to easily run the tabular data tutorials (#1-4) on a Mac laptop as well. All tutorials should be run in either Python 3.6 or 3.7. 
 
-See [here](https://github.com/jwmueller/KDD20-tutorial/tree/master/sagemaker) for setup instructions on a Sagemaker instance.
+See [here](https://github.com/jwmueller/KDD20-tutorial/tree/master/sagemaker) for setup instructions on a [Sagemaker instance](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html).
 
 
 ## Hands-on Tutorials
