@@ -14,7 +14,7 @@ Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autoglu
 
 **Live Q&A:** August 24, 2020: 1-4pm (PST)
 
-**Note:** Public links to video presentations will be posted shortly.
+**Video presentations**: https://www.youtube.com/playlist?list=PLlGlURKFtW6jfdjxBoZyYrr1Lm0QzeS7h
 
 ## Setup Instructions 
 
