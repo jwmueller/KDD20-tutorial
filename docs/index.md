@@ -14,6 +14,8 @@ Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autoglu
 
 **Video presentations**: [https://www.youtube.com/playlist?list=PLlGlURKFtW6jfdjxBoZyYrr1Lm0QzeS7h](https://www.youtube.com/playlist?list=PLlGlURKFtW6jfdjxBoZyYrr1Lm0QzeS7h)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLlGlURKFtW6jfdjxBoZyYrr1Lm0QzeS7h" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Setup Instructions 
 
 ### Provided GPU machine
