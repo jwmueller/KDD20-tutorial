@@ -26,12 +26,9 @@ and you will receive an automated reply with instructions on how to get started.
 
 ### Your own machine
 
-Before running the hands-on tutorials on your own machine, please [install AutoGluon](https://autogluon.mxnet.io/install.html). In the installation instructions, please select the **SOURCE** option under **VERSION** which will provide you with a command to install the most up-to-date AutoGluon code (needed for Tutorials #8-10). You can alternatively use the following installation command (which will install a recent pre-release version):
-
-`python3 -m pip install autogluon==0.0.13b20200822`
-
-You'll also need to install MXNet by following [this guide](https://sxjscience.github.io/KDD2020/). 
-Tutorial #7 also requires you to first install [Pytorch](https://pytorch.org/).
+Before running the hands-on tutorials on your own machine, please [install AutoGluon](https://autogluon.mxnet.io/install.html) (and subsequently make sure you have version 0.0.13). 
+You'll also need to have installed MXNet by following [this guide](https://sxjscience.github.io/KDD2020/). 
+Tutorial #7 also requires you to install [Pytorch](https://pytorch.org/) and [torchvision](https://pypi.org/project/torchvision/).
 
 A Linux machine with GPU is recommended, although you should be able to easily run the tabular data tutorials (#1-4) on a Mac laptop as well. All tutorials should be run in either Python 3.6 or 3.7. 
 
