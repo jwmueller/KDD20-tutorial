@@ -18,14 +18,6 @@ Most of this code is adopted from [AutoGluon](https://github.com/awslabs/autoglu
 
 ## Setup Instructions 
 
-### Provided GPU machine
-
-For the week of the KDD conference, we will provide access to cloud GPUs to run the hands-on tutorials. 
-To access one of these machines (which will be available to you for 6 hours), please send an email to: `kdd20-autogluon@request-nb.mxnet.io`
-and you will receive an automated reply with instructions on how to get started. Once you have access to one of these instances, all prerequisite packages will already be installed and all hands-on notebooks are already available to run on the instance.
-
-### Your own machine
-
 Before running the hands-on tutorials on your own machine, please [install AutoGluon](https://autogluon.mxnet.io/install.html) (and subsequently make sure you have version 0.0.13). 
 You'll also need to have installed MXNet by following [this guide](https://sxjscience.github.io/KDD2020/). 
 Tutorial #7 also requires you to install [Pytorch](https://pytorch.org/) and [torchvision](https://pypi.org/project/torchvision/).
